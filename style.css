@@ -101,9 +101,7 @@ section {
     padding: 50px 20px;
   }
 }
-.bg-blue{
-    background-color: rgb(187, 25, 79);
-}
+
 
 .hero {
   display: flex;
